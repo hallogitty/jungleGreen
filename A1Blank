@@ -46,12 +46,13 @@ void check(uint64 should, uint64 is)
 
 uint64 recursive(int i)
 {
-    printf("dont shoot the pianist");
+    printf("cat eats tarantula");
     return -1;
 }
 
 uint64 iterative(int i)
 {
+    printf("dont shoot the pianist");
     return -1;
 }
 
