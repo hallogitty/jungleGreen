@@ -52,7 +52,6 @@ uint64 recursive(int i)
 
 uint64 iterative(int i)
 {
-    printf("dont shoot the pianist");
     return -1;
 }
 
